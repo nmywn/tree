@@ -3,7 +3,7 @@
 #
 #
 #
-# ## What is your login scheme?
+### What is your login scheme?
 #
  * #### [EASY - password only](import-password.md)
  * #### [MEDIUM - backup + password](import-backup.md)
