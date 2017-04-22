@@ -9,3 +9,5 @@
  * #### [MEDIUM - backup + password](import-backup.md)
  * #### [ADVANCED - BrainKey](import-brainkey.md)
  * #### [ADVANCED - Private Key](import-privkey.md)
+ 
+ [ <- back](../nocookie.md)
