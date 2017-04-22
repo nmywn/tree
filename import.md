@@ -10,4 +10,4 @@
  * #### [ADVANCED - BrainKey](import-brainkey.md)
  * #### [ADVANCED - Private Key](import-privkey.md)
  
- [ <- back](../nocookie.md)
+ [go back](no-cookie.md)
